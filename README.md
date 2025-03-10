@@ -1,4 +1,4 @@
-Tnix is a fork of the Momentum Modal package created by Boris Lephikin. Unfortunately the package seems to be abandoned and has received no updates for a while.
+This is a fork of the Momentum Modal package created by Boris Lephikin. Unfortunately the package seems to be abandoned and has received no updates for a while.
 
 ## Credits
 
